@@ -1,3 +1,5 @@
+#TimeComplexity: O(log n)
+#SpaceComplexity: O(1)
 def FindMissingElement(arr):
     low = 0 #Initialize low to 0
     high = len(arr)-1   #Initialize high to lenght of arr-1
